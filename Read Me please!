@@ -1,0 +1,14 @@
+Use database/ikimina.sql.
+
+bdName: ikimina,
+
+-admin: {email:admin@admin.com}
+        {password:123456}
+-accountant: {
+    email:alainmucyo3@gmail.com,
+    password: 123456
+}
+-president: {
+   email:alainmucyo@gmail.com,
+    password: 123456
+}
